@@ -1,0 +1,16 @@
+{
+  "name": "backend-with-chai-aur-code",
+  "version": "1.0.0",
+  "description": "backend",
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "aditya",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
